@@ -5,7 +5,7 @@
  * Email: centraleffects@yahoo.com
  * 
  * Modify the script according to your needs.
- * This can be implemented using Github Webhooks: https://github.com/influxsocial/frontend/settings/hooks
+ * This can be implemented using Github Webhooks: https://github.com/your-github-username/your-github-repo/settings/hooks
 */
 
 ignore_user_abort(true); 
