@@ -1,5 +1,5 @@
 # GithubDeploy
-Deploy Github to Remote Server<br>
+PHP Deploy Github to Remote Server<br>
 Author: Rex Bengil<br><br>
 
 Modify the script according to your needs.<br>
