@@ -1,7 +1,6 @@
 #PHP Deploy Github to Remote Server<br>
-Author: Rex Bengil<br><br>
 
-#Description
+##Description
 A simple PHP code that will help you deploy your repo to a remote server
 
 Modify the script according to your needs.<br>
